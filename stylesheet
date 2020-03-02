@@ -1,13 +1,16 @@
 div {
+font-family: Times New Roman, sans-serif;
   width: 70%;
   margin: 0 auto;
   text-align: center;
 }
-
+h1 {
+  font-family: Times New Roman, sans-serif;
+}
 h2 {
   font-family: Times New Roman, sans-serif;
 }
 
 p {
-  font-family: Times New Roman, sans-serif;
+  font-family: Arial, sans-serif;
 }
